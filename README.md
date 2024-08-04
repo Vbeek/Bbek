@@ -62,10 +62,6 @@ Geust network and authorized staff network creation seprately
 - [facebook](https://www.facebook.com/profile.php?id=100068822161157)  <!-- Replace with your Twitter profile -->
 - [Portfolio](https://yourportfolio.com)  <!-- Replace with your portfolio website -->
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bbek&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  <!-- Replace `yourusername` with your GitHub username -->
-
 ## 🚀 Languages & Tools
 
 - ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)  <!-- Replace with your preferred language badges -->
