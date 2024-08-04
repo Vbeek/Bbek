@@ -27,6 +27,29 @@ Retreiving Deled files and data along with metadata
 
 ![image](https://github.com/user-attachments/assets/230b18a2-3daf-4c48-b492-3deba465aaa0)
 
+### [Implementing Router security to reduce unauthorized access and data scraping](https://github.com/yourusername/project1)
+Associated with Gippsland portal
+Firewall and DOS implementation
+Service filtering anad ACL
+Implementing WPA3 encryption, IP/Mac filtering and binding
+DMZ and VPN
+Reservation and modification of LAN Ip address
+![image](https://github.com/user-attachments/assets/200d696c-5f77-454b-a051-8cbd804725ea)
+
+### [Vulnerabilty Assesment for metasploit and windows 10 as wella as penetration testing](https://github.com/yourusername/project1)
+Scanner setup and analysing vulnerability report
+Reconnasiance and VNC server exploitation of Metasploit
+FTP exploitation on Windows 10
+![image](https://github.com/user-attachments/assets/002dd567-c061-4bee-bc85-9251bfffb419)
+
+### [Design and Implementation of secure enterprise wireless network](https://github.com/yourusername/project1)
+Subnetting
+Use Radius (802.1x protocol)
+Connection to WLAN to control IOT
+Rouge AP identification
+Geust network and authorized staff network creation seprately
+![image](https://github.com/user-attachments/assets/6f60d355-61a5-42ef-8fa4-d8c243f5834d)
+
 ## 📚 Education
 
 - **Degree**: Bachleor in Networking and Cybersecurity
