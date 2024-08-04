@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bibeki Lamichhane
+# 👋 Hello, I'm Bibek Lamichhane
 
 Welcome to my GitHub profile! I'm a passionate Networking and Cybersecurity student with a strong foundation in various technologies. I love exploring new tools and technologies to enhance my skills in the field. 
 
@@ -19,13 +19,13 @@ Associated with Melbourne Institute of Technology
 -Two different domains ( Administrator and Everyone else)
 -Different privileges assigned to domains 
 -IIS Server
+![image](https://github.com/user-attachments/assets/1e7c7c53-3781-4a76-83ee-f2056d02b1e1)
 
-![Project 1](https://via.placeholder.com/150)  <!-- Replace with your project image -->
 
 ### [Data Acquisition Using Forensic tools such as Pro Discover Basic and Autopsy of the USB](https://github.com/yourusername/project2)
 Retreiving Deled files and data along with metadata
 
-![Project 2](https://via.placeholder.com/150)  <!-- Replace with your project image -->
+![image](https://github.com/user-attachments/assets/230b18a2-3daf-4c48-b492-3deba465aaa0)
 
 ## 📚 Education
 
@@ -41,7 +41,7 @@ Retreiving Deled files and data along with metadata
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  <!-- Replace `yourusername` with your GitHub username -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bbek&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)  <!-- Replace `yourusername` with your GitHub username -->
 
 ## 🚀 Languages & Tools
 
