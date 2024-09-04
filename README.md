@@ -77,4 +77,3 @@ Thank you for visiting my GitHub profile! Feel free to reach out if you have any
 For more advanced styling, consider using a GitHub profile README generator or Markdown editor.
 -->
 
-Hello world, this is my profile
