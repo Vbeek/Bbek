@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate Networking and Cybersecurity stud
 - **Cybersecurity**: Linux, System Deployment, Beef, Armitage, Wireshark, Nmap
 - **Databases**: MySQL
 - **Programming**: C, Atom, CSS
-- **Others**: .so (Shared Libraries)
 
 ## 🌟 Projects
 
