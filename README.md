@@ -59,7 +59,7 @@ Geust network and authorized staff network creation seprately
 
 - [LinkedIn](https://www.linkedin.com/in/bibek-lamichhane-820b01285/)  <!-- Replace with your LinkedIn profile -->
 - [facebook](https://www.facebook.com/profile.php?id=100068822161157)  <!-- Replace with your Twitter profile -->
-- [Portfolio](https://yourportfolio.com)  <!-- Replace with your portfolio website -->
+- [Portfolio](file:///C:/Users/DELL/Desktop/Portfolio/index.html)  <!-- Replace with your portfolio website -->
 
 ## 🚀 Languages & Tools
 
